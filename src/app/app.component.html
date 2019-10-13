@@ -1,0 +1,21 @@
+<div class="container-fluid">
+    <div>
+        <div class=" yoyo" (drop)="drop($event)"
+             (dragover)="allowDrop($event)"  >
+            <canvas id="canvas" draggable="true"
+                    (dragstart)="drag($event)" style="width:100%;height: 100%"></canvas>
+
+        </div >
+        <div class=" yoyo" (drop)="drop($event)"
+             (dragover)="allowDrop($event)" ></div>
+
+
+        <div class=" yoyo" (drop)="drop($event)"
+             (dragover)="allowDrop($event)" ></div>
+
+        <div class="yoyo" (drop)="drop($event)"
+             (dragover)="allowDrop($event)" ></div>
+    </div>
+
+
+</div>

@@ -1,0 +1,10 @@
+
+.yoyo{
+    float: left;
+    resize: both;
+    position: relative;
+    height: 22% !important;
+    display: inline-block;
+    border: 1px solid black;
+    width: 21% !important;
+}
