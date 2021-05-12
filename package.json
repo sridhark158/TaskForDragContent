@@ -12,7 +12,7 @@
     "@angular/router": "6.0.0",
     "angular-resizable-element": "^3.2.6",
     "bootstrap": "^4.3.1",
-    "chart.js": "2.7.2",
+    "chart.js": "2.9.4",
     "core-js": "2.5.5",
     "rxjs": "6.1.0",
     "zone.js": "0.8.26"
